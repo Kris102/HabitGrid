@@ -18,7 +18,8 @@ Built as one of my first projects while learning web development.
 </div>
 
 <div align="center">
-  <img src="<img width="733" height="689" alt="Screenshot 2026-11-19 at 7 31 42 PM" src="https://github.com/user-attachments/assets/6142d1ff-741f-4c76-8569-0ea02e275f8b" />
+  <img src="https://github.com/user-attachments/assets/66e92086-b8b5-495e-bb15-c2eea449a77f" />
+" />
 " alt="HabitGrid screenshot" width="800">
 </div>
 
