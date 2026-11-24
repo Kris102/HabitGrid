@@ -17,8 +17,10 @@ Built as one of my first projects while learning web development.
 
 </div>
 
-<img width="733" height="689" alt="Screenshot 2026-11-19 at 7 31 42 PM" src="https://github.com/user-attachments/assets/744f2abd-6717-44aa-8bf4-dc47be5a6dbd" />
-
+<div align="center">
+  <img src="<img width="733" height="689" alt="Screenshot 2026-11-19 at 7 31 42 PM" src="https://github.com/user-attachments/assets/6142d1ff-741f-4c76-8569-0ea02e275f8b" />
+" alt="HabitGrid screenshot" width="800">
+</div>
 
 ## About
 
@@ -29,8 +31,8 @@ HabitGrid is a habit tracking web app inspired by the GitHub contribution graph.
 - **Heatmap grid** for every habit, with multiple intensity levels per day
 - **Four views:** compact, year, month and week
 - **Streaks:** current and longest streak for each habit
-- **Built-in timer:** stopwatch, Pomodoro or manual entry, with notes for each session
-- **Targets:** log focus time against longer or shorter goals
+- **[FocusTime](#focustime):** stopwatch, Pomodoro or manual entry, with notes for each session
+- **Targets:** log focus time against long-term goals or one-time tasks, with optional habit linking
 - **Local-first:** all data stays in your browser's `localStorage`
 - **Export and import:** JSON, CSV, and an "Export for AI" summary of your sessions
 - **Weekly auto-backup:** saves a backup file to a folder you choose (Chrome and Edge), with a download reminder on other browsers
@@ -45,6 +47,35 @@ HabitGrid is a habit tracking web app inspired by the GitHub contribution graph.
 4. Save your data every now and then with **Export JSON**, or turn on the weekly backup.
 
 **Prefer to use it offline?** Download `index.html`, open it in your browser, and bookmark it.
+
+## FocusTime
+
+HabitGrid also has a built-in focus timer called **FocusTime**, opened with the stopwatch button in the toolbar. It tracks *how long* you work on something, while the grid tracks *whether* you showed up.
+
+<!-- Optional: add a FocusTime screenshot
+<div align="center">
+  <img src="focus-time.png" alt="FocusTime screenshot" width="800">
+</div>
+-->
+<img width="952" height="693" alt="Screenshot 2026-11-19 at 7 34 22 PM" src="https://github.com/user-attachments/assets/091e41c1-82ba-4b0e-a99b-b228c7efaf36" />
+
+**Three ways to log time**
+
+| Mode | What it does |
+|---|---|
+| **Stopwatch** | Counts up while you work, then saves the session |
+| **Pomodoro** | Focus and break cycles (25 / 5 minutes by default, adjustable) |
+| **Manual** | Add a session after the fact with the date, minutes and a note |
+
+**What you can do**
+
+- Pick a **target** for each session: one of your habits, a **long-term goal** (a language, an instrument, an exam), or a **one-time task** that gets finished.
+- Add a short **note** to every session.
+- See your totals for **Today, 7 days, 30 days, 90 days or All time**, filtered by long-term or one-time, with a chart of where your time went.
+- Turn on **habit linking** so a habit's square on the grid is filled in automatically once you log enough focus time (20 minutes by default, adjustable). Squares you change by hand are left alone.
+- Choose which habits appear in the focus timer.
+- **Export for AI** creates a Markdown summary of your sessions (totals, active days, averages, weekly breakdown) that you can paste into an AI assistant to get a review of your study habits.
+- Export your sessions as **CSV** or include them in the **JSON** backup.
 
 ## Your data and privacy
 
