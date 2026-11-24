@@ -18,9 +18,8 @@ Built as one of my first projects while learning web development.
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/66e92086-b8b5-495e-bb15-c2eea449a77f" />
-" />
-" alt="HabitGrid screenshot" width="800">
+  <img src="https://github.com/user-attachments/assets/66e92086-b8b5-495e-bb15-c2eea449a77f">
+alt="HabitGrid screenshot" width="800">
 </div>
 
 ## About
