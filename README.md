@@ -17,7 +17,8 @@ Built as one of my first projects while learning web development.
 
 </div>
 
-![HabitGrid screenshot](screenshot.png)
+<img width="733" height="689" alt="Screenshot 2026-11-19 at 7 31 42 PM" src="https://github.com/user-attachments/assets/744f2abd-6717-44aa-8bf4-dc47be5a6dbd" />
+
 
 ## About
 
